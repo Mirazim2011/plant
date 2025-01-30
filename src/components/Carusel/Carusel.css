@@ -187,8 +187,6 @@
     width: 300px;
   }
 
-
-  
   .hero__content-heading,
   .hero__content-heading-span {
     font-size: 40px;
@@ -202,7 +200,7 @@
 
 @media only screen and (max-width: 768px) {
   .hero__inner {
-    flex-direction: column;
+    flex-direction: column-reverse;
     text-align: center;
   }
 
