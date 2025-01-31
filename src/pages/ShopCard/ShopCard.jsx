@@ -7,7 +7,7 @@ import Related from "../../components/Related/Related";
 export default function ShopCard() {
   return (
     <>
-      {/* <Header /> */}
+      <Header />
       <main>
         <Payment />
         <Related />

@@ -8,7 +8,7 @@ import Related from "../../components/Related/Related";
 export default function Shop() {
   return (
     <div>
-      {/* <Header /> */}
+      <Header />
       <main>
         <View />
         <Handout />
